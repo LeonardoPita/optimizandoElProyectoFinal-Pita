@@ -66,7 +66,7 @@ body {
 /* --------------- Hero ---------------- */
 .hero {
     min-height: calc(100vh - 60px);
-    background: url("./Assets/img1.jpg") center/cover no-repeat;
+    background: url("assets/img1.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
